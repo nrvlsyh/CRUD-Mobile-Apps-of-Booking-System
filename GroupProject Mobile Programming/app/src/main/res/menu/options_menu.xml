@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Overflow menu. No need for icon -->
+    <item android:id="@+id/finished"
+        android:title="@string/finished" />
+    <item android:id="@+id/progress"
+        android:title="@string/in_progress" />
+    <item android:id="@+id/all"
+        android:title="All"/>
+</menu>

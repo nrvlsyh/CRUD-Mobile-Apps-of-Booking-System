@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="AppCompatResource">
+
+    <item android:id="@+id/task_details"
+        android:showAsAction="always"
+        android:title="Details" />
+
+    <item android:id="@+id/menu_status"
+        android:showAsAction="always"
+        android:title="Task Done" />
+
+
+</menu>
